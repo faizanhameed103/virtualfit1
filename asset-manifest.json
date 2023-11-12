@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/virtualfit1/static/css/main.42300d1c.css",
+    "main.js": "/virtualfit1/static/js/main.85c69f2b.js",
+    "static/media/ffit1.png": "/virtualfit1/static/media/ffit1.0cf8d33f86e968ef4f04.png",
+    "static/media/ffit4.png": "/virtualfit1/static/media/ffit4.0951c63ccd32b12e26a2.png",
+    "static/media/Logo-removebg-preview.png": "/virtualfit1/static/media/Logo-removebg-preview.53ddd2e80e40c5805247.png",
+    "static/media/home-banner-background.png": "/virtualfit1/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/virtualfit1/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/virtualfit1/index.html",
+    "main.42300d1c.css.map": "/virtualfit1/static/css/main.42300d1c.css.map",
+    "main.85c69f2b.js.map": "/virtualfit1/static/js/main.85c69f2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.85c69f2b.js"
+  ]
+}
